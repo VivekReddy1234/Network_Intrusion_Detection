@@ -106,7 +106,7 @@ This project uses the **CIC-IDS-2017** dataset published by the Canadian Institu
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Sahil-Bhardwaj/nids-project.git
+git clone https://github.com/VivekReddy1234/Network_Intrusion_Detection.git
 cd nids-project
 ```
 
