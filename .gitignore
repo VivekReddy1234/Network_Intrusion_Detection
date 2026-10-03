@@ -1,0 +1,47 @@
+# ── Dataset files (too large for Git) ──
+ml-engine/data/*.csv
+ml-engine/data/*.pcap
+ml-engine/data/*.zip
+
+# ── Trained model files (too large, regenerate from train.py) ──
+*.pkl
+*.joblib
+
+# ── Runtime database ──
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Secrets ──
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.log
+.coverage
+.pytest_cache/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ──
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,7 @@
+{
+  "model": "RandomForest",
+  "f1": 0.996405969216345,
+  "precision": 0.9955114944771867,
+  "recall": 0.9973020527859238,
+  "n_estimators": 100
+}
